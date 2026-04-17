@@ -10,7 +10,7 @@ This project simulates a sales system using a digital twin approach to improve r
 
 ## Files
 - main.py → simulation code
-- report.docx → project report
+- Sales_Acceleration_Digital_Twin_report.docx → project report
 - output.png → result graph
 
 ## Demo Video

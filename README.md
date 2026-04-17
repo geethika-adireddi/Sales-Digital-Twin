@@ -13,9 +13,6 @@ This project simulates a sales system using a digital twin approach to improve r
 - Report.docx → project report
 - outputs → result graph
 
-## Demo Video
-[Watch here](PASTE_YOUR_DRIVE_LINK)
-
 ## Tools Used
 - Python
 - NumPy
